@@ -1,2 +1,1 @@
-# datascience
-algorithms, thoughts, and failures
+# word2vec
